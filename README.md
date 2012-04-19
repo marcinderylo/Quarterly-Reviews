@@ -6,6 +6,7 @@ It's intended to be a simple app for performing quarterly employee reviews. Doin
 * make authentication/authorization pluggable (with LDAP plugin initially)
 * make data storage pluggable (with MongoDB and/or CouchDB plugins initially)
 * create some working version fullfilling my basic needs
+* use JDK 7 to try out new features
 
 # Licence
 The application is licenced under [DWTFYWPL](http://sam.zoy.org/wtfpl/COPYING), Do What The Fuck You Want To Public License.
